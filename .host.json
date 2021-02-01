@@ -2,6 +2,7 @@
 	"profile": "host-cli",
 	"domain": "pigeoner.io",
 	"source": "arcdevio.github.io/host-test",
+	"sourceSlash" : true,
 	"redirects": {
 		"/redirect": "/"
 	},
